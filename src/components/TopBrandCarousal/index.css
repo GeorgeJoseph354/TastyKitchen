@@ -1,0 +1,32 @@
+.top-brand-container {
+  margin: auto;
+  width: 80%;
+}
+
+.top-brand-heading {
+  color: #ce3806;
+  font-size: 32px;
+}
+
+.slick-prev:before {
+  color: #ce3806;
+}
+.slick-next:before {
+  color: #ce3806;
+}
+
+.brand-card {
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
+.top-brand-icon {
+  width: 165px;
+  margin-left: 80px;
+}
+
+@media screen and (max-width: 991px) {
+  .top-brand-container {
+    display: none;
+  }
+}
