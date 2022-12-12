@@ -29,7 +29,7 @@
 }
 
 .slick-dots li.slick-active button::before {
-  color: #f7931e;
+  color: #ce3806;
   opacity: 1;
   font-size: 20px;
 }

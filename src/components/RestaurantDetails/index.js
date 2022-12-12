@@ -148,7 +148,7 @@ class RestaurantDetails extends Component {
       testid="restaurant-details-loader"
       className="restaurant-loader-container"
     >
-      <Loader type="Oval" color="#F7931E" height="50" width="50" />
+      <Loader type="Oval" color="#ce3806" height="50" width="50" />
     </div>
   )
 
